@@ -6,6 +6,8 @@ __pycache__/
 # C extensions
 *.so
 
+#Customer file type I want to ignore
+
 # Distribution / packaging
 .Python
 build/
